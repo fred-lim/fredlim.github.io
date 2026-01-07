@@ -2,7 +2,7 @@
 
 **🌐 Live Site:** [https://fred-lim.github.io](https://fred-lim.github.io)
 
-A curated collection of exercises and solutions for mathematics, chemistry, and physics textbooks. Designed to help students practice and master key concepts.
+A curated collection of solutions for mathematics and physics textbooks. Designed to help friends.
 
 ## 📖 Subjects Covered
 
